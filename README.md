@@ -1,4 +1,4 @@
-# kmeans gradient descent
+# Linear regression with gradient descent
 
 Homework 3 for machine learning 
 
